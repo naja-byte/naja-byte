@@ -1,14 +1,36 @@
+
 <h1 align="center">🧬 M A R Y 🧬</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=800&color=00FF9C&center=true&vCenter=true&width=500&lines=Biomedical+Science+%7C+Bioinformatics;Biological+Data+Analysis;Python+%7C+R+%7C+NGS" alt="Biomedical Science | Bioinformatics" />
+  <i>biology meets computation.</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BIOINFORMATICS-00FF9C?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/NGS-00FF9C?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/TECHNOLOGY-00FF9C?style=flat-square&labelColor=0D1117" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=600&lines=decoding+biological+data;sequencing+%3E+processing+%3E+discovery;building+reproducible+workflows;exploring+the+computational+side+of+life" alt="Animated bioinformatics terminal text"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/BIOINFORMATICS-0A0F0D?style=for-the-badge&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/NGS-0A0F0D?style=for-the-badge&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/OPEN_TO_WORK-00FF9C?style=for-the-badge&logoColor=000000"/>
+</p>
+
+```python
+class Mary:
+    field = "Biomedical Science"
+    role = "Bioinformatics Intern"
+
+    interests = ["NGS & sequencing",
+        "microbiome research",
+        "biological data analysis",
+        "computational biology",]
+
+    def mission(self):
+        return "turn biological data into scientific insight"
+
+me = Mary()
+print(me.mission())
+```
 ## `01` // ABOUT
 
 Biomedical Science student and Bioinformatics Intern with an interest in computational biology, microbial ecology, and the application of computational methods to biological and clinical research.
